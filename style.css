@@ -2,4 +2,57 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  background: #94bdd1;
 }
+header{
+  text-align: center;
+  color: #bdd194;
+  font-style: Georgia;
+  
+}
+header h1{
+  text-shadow: 1px 1px #000;
+}
+nav{
+  background: #a994d1 ;
+}
+nav a{
+  color: #a994d1;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #bdd194;
+
+}
+nav a:hover{
+  color: #0099e6;
+}
+nav a:visited{
+  color: aliceblue;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
+
+figcaption{
+  text-align: center;
+  font-size: 18px;
+}
+#featured-property p{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 800px;
+  padding: 10px;
+}
+
+#details div{
+  background: #a994d1;
+  float: left;
+  text-align: center;
+  width: 25%;
+}
+
+
